@@ -1,2 +1,2 @@
 Hello Team
-Welcome to AWS DevOps
+Welcome to Azure DevOps
